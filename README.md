@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DorukSS
-- 👀 I’m interested in:websites,scripting
-- 🌱 I’m currently learning:javascript
-- 📫 How to reach: me dorukserdem35@gmail.com
+- 👀 I’m interested in: Backend
+- 🌱 I’m currently learning: Python
+- 📫 How to reach me: dorukserdem35@gmail.com
 
 <!---
 DorukSS/DorukSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
